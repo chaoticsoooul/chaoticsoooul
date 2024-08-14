@@ -1,19 +1,19 @@
 # Natalie Leung
-<a href="https://link3.to/natlaie">**Learn More**</a>
+<a href="https://link3.to/natlaie">**Click to Learn More**</a>
 <br>
 <br>
 
 
-## Learning Progress
+## Learning Coding
 Click links below to see my live progress
+
+- <a href="https://forums.unrealengine.com/u/natalielpy/badges">**Unreal Online Learning**</a> | 36+ courses 
 
 - **Alchemy University** | Solidity & Javascrirpt
 
 - <a href="https://www.codecademy.com/profiles/natal6ie">**Codecademy**</a> | HTML, CSS, JavaScript & React
 
 - <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | Responsive Web Design, **currently learning JavaScript Algorithms and Data Structures**
-
-- <a href="https://forums.unrealengine.com/u/natalielpy/badges">**Unreal Online Learning**</a> | 36+ courses 
 
 - **ThreeJS Journey** | 39/66 lessons
 
