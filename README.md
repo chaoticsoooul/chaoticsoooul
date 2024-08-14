@@ -23,13 +23,13 @@ Click links below to see my live progress
 ## Full-stack Creative
 Delivered quality work for organizations in tech and various other industries for 8+ years. 
 
-- **Vector Graphics** | with Illustrator or Figma
-  
-- **Product Design and Management** | with Figma, Posthog, PM tools and more
-- **Video & Animation** | with Premiere Pro, Rive or Unreal Engine
-- **Web Development** | with React, Webflow, Framer, and more
+- **Vector Graphics** | Illustrator or Figma  
+- **Product Design and Management** | Figma, Posthog, PM tools and more
+- **Video & Animation** | Premiere Pro, Rive or Unreal Engine
+- **Web Development** | React, Webflow, Framer, and more
 
-- **Interactive 3D** | with Blender, Unreal Engine, Playcanvas, Three.js and more
+- **Interactive 3D** | Blender, Unreal Engine, Playcanvas, Three.js and more
+- **Generative AI** | ComfyUI fundamentals 
 
 <br>
 
