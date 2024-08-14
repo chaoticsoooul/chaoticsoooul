@@ -4,7 +4,7 @@
 <br>
 
 
-## Learning Coding
+## Learning
 Click links below to see my live progress
 
 - <a href="https://forums.unrealengine.com/u/natalielpy/badges">**Unreal Online Learning**</a> | 36+ courses 
@@ -33,7 +33,7 @@ Delivered quality work for organizations in tech and various other industries fo
 
 <br>
 
-## Unrel Engine Game Development
+## Unreal Engine Game Development
 Completed a full-time Game Design Certification Course in 2020, majoring in Technical Art. 
 
 <br>
