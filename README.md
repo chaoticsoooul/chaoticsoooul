@@ -5,7 +5,9 @@
 
 
 ## Learning 💻
-Click links below to see my live progress
+````Click links below to see my live progress````
+
+<br>
 
 - <a href="https://forums.unrealengine.com/u/natalielpy/badges">**Unreal Online Learning**</a> | 36+ courses 
 
@@ -60,6 +62,8 @@ Click links below to see my live progress
 
 ## Full-stack Creative 🖋️
 ````Delivered quality work for organizations in tech and various other industries for 8+ years. ````
+
+<br>
 
 - **Vector Graphics** | Illustrator or Figma  
 - **Product Design and Management** | Figma, Posthog, PM tools and more
