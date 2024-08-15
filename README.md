@@ -93,7 +93,7 @@
   developed metaverse prototypes with architectural designs
 - <a href="https://www.youtube.com/@simbanmetaverse">**Simaban Metaverse**</a> | **Blocokchain-powered Travel Metaverse** | 2023
 
-  implemented required game logic and product demo
+  built game logic on top of the prototype and created product demos
 - <a href="https://tec.hku.hk/startups-directory/">**MetaVisions**</a> | **VR & AI Powered Wellness Start-up** | 2023
 
   developed a product demo that can be previewed with Oculus
