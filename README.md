@@ -17,7 +17,7 @@
 
 - <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | Responsive Web Design
 
-  🟢 currently learning JavaScript Algorithms and Data Structures
+  🟢 currently learning **JavaScript Algorithms and Data Structures**
 
 - **ThreeJS Journey** | 39/66 lessons
 
@@ -28,7 +28,7 @@
 ### Web2 🤖
 <br>
 
-- <a href="https://www.useget.com/">**Get**</a>｜**Prev. Event ticketing for Students** | 2017-2020
+- <a href="https://www.useget.com/">**Get**</a>｜**Prev. Event ticketing for Students** | 2017, 2019-2020
 
   contributed to this: <a href="https://www.techinasia.com/talk/how-app-dominated-hong-kong-universities-1-month"> How this app dominated Hong Kong Universities in just 1 month</a>
 - <a href="https://www.chatdaddy.tech/">**ChatDaddy**</a>  | **AI Chatbot Builder for WhatsApp** | 2020-2021
@@ -76,12 +76,12 @@
 <br>
 
 ## Unreal Engine Game Development 🎮
-````Completed a full-time Game Design Certification Course in 2020, majoring in Technical Art. ````
+````Completed a 1-year full-time Game Design Certification Course, majoring in Technical Art. ````
 
 <br>
 
 **Graduation project**
-- <a href="https://store.steampowered.com/app/1528860/The_Legend_of_Karl/">**The Legend of Karl**</a> | **Award-winning Platformer Game on Steam**
+- <a href="https://store.steampowered.com/app/1528860/The_Legend_of_Karl/">**The Legend of Karl**</a> | **Award-winning Platformer Game on Steam** | 2020
 
   contributed as a level designer and technical artist and received the Bahamut 2021 ACG Creation Contest "Game Category" Silver Award
   
