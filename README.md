@@ -1,10 +1,10 @@
-# Natalie Leung
+# Natalie Leung 🪄
 <a href="https://link3.to/natlaie">**Click to Learn More**</a>
 <br>
 <br>
 
 
-## Learning
+## Learning 💻
 Click links below to see my live progress
 
 - <a href="https://forums.unrealengine.com/u/natalielpy/badges">**Unreal Online Learning**</a> | 36+ courses 
@@ -13,15 +13,53 @@ Click links below to see my live progress
 
 - <a href="https://www.codecademy.com/profiles/natal6ie">**Codecademy**</a> | HTML, CSS, JavaScript & React
 
-- <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | Responsive Web Design, **currently learning JavaScript Algorithms and Data Structures**
+- <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | Responsive Web Design
+
+  🟢 currently learning JavaScript Algorithms and Data Structures
 
 - **ThreeJS Journey** | 39/66 lessons
 
 <br>
 
+## Building 🛠️
 
-## Full-stack Creative
-Delivered quality work for organizations in tech and various other industries for 8+ years. 
+### Web2 🤖
+<br>
+
+- <a href="https://www.useget.com/">**Get**</a>｜**Prev. Event ticketing for Students** | 2017-2020
+
+  contributed to this: <a href="https://www.techinasia.com/talk/how-app-dominated-hong-kong-universities-1-month"> How this app dominated Hong Kong Universities in just 1 month</a>
+- <a href="https://www.chatdaddy.tech/">**ChatDaddy**</a>  | **AI Chatbot Builder for WhatsApp** | 2020-2021
+
+  acquired 1000 meetings scheduled in just 1 quarter
+- <a href="https://editor.avatech.ai/ai-mascot">**Avatech**</a> | **Avatar Interface for AI Chatbots** | 2024
+
+  🟢 wrapping up
+<br>
+
+### Web3 ⛓️
+<br>
+
+**Events & Communities**
+- <a href="https://x.com/ethereumhk">**Eth Hong Kong**</a> | Contributor
+  
+- <a href="https://linktr.ee/nounsrc">**Nouns Running Club**</a> | Founding Member
+
+<br>
+
+**Hackathon Projects**
+- <a href="https://ethglobal.com/showcase/sportyachievers-jpmkd">**SportyAchievers**</a> | On-chain Funding Platform for Atheletes 
+
+- <a href="https://ethglobal.com/showcase/cpa-e46mm">**CPA Protocol**</a> | On-chain Affiliate Protocol for Web3 Projects
+
+- <a href="https://ethglobal.com/showcase/chirpy-bn4f4">**Skitties | Chirpy**</a> | AI Telegram companian for decentrailized socials (Farcaster & Lens Protocol)
+
+- <a href="https://ethglobal.com/showcase/adgi-y9xr3">**ADGI | LibertAI**</a> | AI Telegram assistant for DAOs
+<br>
+
+
+## Full-stack Creative 🖋️
+````Delivered quality work for organizations in tech and various other industries for 8+ years. ````
 
 - **Vector Graphics** | Illustrator or Figma  
 - **Product Design and Management** | Figma, Posthog, PM tools and more
@@ -33,8 +71,8 @@ Delivered quality work for organizations in tech and various other industries fo
 
 <br>
 
-## Unreal Engine Game Development
-Completed a full-time Game Design Certification Course in 2020, majoring in Technical Art. 
+## Unreal Engine Game Development 🎮
+````Completed a full-time Game Design Certification Course in 2020, majoring in Technical Art. ````
 
 <br>
 
@@ -46,7 +84,7 @@ Completed a full-time Game Design Certification Course in 2020, majoring in Tech
 <br>
   
 **Work Experience**
-- <a href="https://www.citispire.com/">**Citispire**</a> | **Cutting Edge Architecutral Studio** | 2020-2023
+- <a href="https://www.citispire.com/">**Citispire**</a> | **Future Forward Architecutral Firm** | 2021-2023
 
   developed metaverse prototypes with architectural designs
 - <a href="https://www.youtube.com/@simbanmetaverse">**Simaban Metaverse**</a> | **Blocokchain-powered Travel Metaverse** | 2023
