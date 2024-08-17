@@ -28,7 +28,7 @@
 ### Web2 🤖
 <br>
 
-- <a href="https://www.useget.com/">**Get**</a>｜**Prev. Event ticketing for Students** | 2017, 2019-2020
+- <a href="https://www.useget.com/">**Get**</a>｜**Prev. Event Ticketing for Students** | 2017, 2019-2020
 
   contributed to this: <a href="https://www.techinasia.com/talk/how-app-dominated-hong-kong-universities-1-month"> How this app dominated Hong Kong Universities in just 1 month</a>
 - <a href="https://www.chatdaddy.tech/">**ChatDaddy**</a>  | **AI Chatbot Builder for WhatsApp** | 2020-2021
@@ -56,7 +56,7 @@
 
 - <a href="https://ethglobal.com/showcase/chirpy-bn4f4">**Skitties | Chirpy**</a> | AI Telegram companian for decentrailized socials (Farcaster & Lens Protocol)
 
-- <a href="https://ethglobal.com/showcase/adgi-y9xr3">**ADGI | LibertAI**</a> | AI Telegram assistant for DAOs
+- <a href="https://ethglobal.com/showcase/adgi-y9xr3">**ADGI</a> for <a href="https://libertai.io)">LibertAI**</a> | AI Telegram assistant for DAOs
 <br>
 
 
