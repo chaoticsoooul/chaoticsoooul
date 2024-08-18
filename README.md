@@ -9,7 +9,7 @@
 
 <br>
 
-- <a href="https://forums.unrealengine.com/u/natalielpy/badges">**Unreal Online Learning**</a> | 36+ courses 
+- <a href="https://forums.unrealengine.com/u/natalielpy/badges">**Unreal Online Learning**</a> | 36+ courses completed
 
 - **Alchemy University** | Solidity & Javascrirpt
 
@@ -96,7 +96,7 @@
   built game logic on top of the prototype and created product demos
 - <a href="https://tec.hku.hk/startups-directory/">**MetaVisions**</a> | **VR & AI Powered Wellness Start-up** | 2023
 
-  developed a product demo that can be previewed with Oculus
+  developed a VR manifestation experience prototype
 
   <br>
 
