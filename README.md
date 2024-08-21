@@ -26,20 +26,25 @@
 ## Building 🛠️
 
 ### Web2 🤖
+````A multiple-time growth lead for tech startups with solid strategic marketing and execution skills, yet deeply passionate about crafting and optimizing the product.````
+<br>
 <br>
 
 - <a href="https://www.useget.com/">**Get**</a>｜**Prev. Event Ticketing for Students** | 2017, 2019-2020
 
-  contributed to this: <a href="https://www.techinasia.com/talk/how-app-dominated-hong-kong-universities-1-month"> How this app dominated Hong Kong Universities in just 1 month</a>
+  Contributed to this <a href="https://www.techinasia.com/talk/how-app-dominated-hong-kong-universities-1-month">**success**</a> as an intern before Series A, then returned to lead growth in Hong Kong, acquiring the first key communities, including event organizers and attendees.
+  
 - <a href="https://www.chatdaddy.tech/">**ChatDaddy**</a>  | **AI Chatbot Builder for WhatsApp** | 2020-2021
 
-  acquired 1000 meetings scheduled in just 1 quarter
+  Revamped the MVP prototype and drove significant growth, with 1,000 meetings scheduled in just one quarter.
 - <a href="https://editor.avatech.ai/ai-mascot">**Avatech**</a> | **Avatar Interface for AI Chatbots** | 2024
 
-  🟢 wrapping up
+  Curated multiple product prototypes and secured initial traction through targeted advertising campaigns.
 <br>
 
 ### Web3 ⛓️
+since 2023
+<br>
 <br>
 
 **Events & Communities**
@@ -66,11 +71,11 @@
 <br>
 
 - **Vector Graphics** | Illustrator or Figma  
-- **Product Design and Management** | Figma, Posthog, PM tools and more
+- **Product Design and Management** | Figma, Posthog, PM tools
 - **Video & Animation** | Premiere Pro, Rive or Unreal Engine
-- **Web Development** | React, Webflow, Framer, and more
+- **Web Development** | React, Webflow, Framer
 
-- **Interactive 3D** | Blender, Unreal Engine, Playcanvas, Three.js and more
+- **Interactive 3D** | Blender, Unreal Engine, Playcanvas, Three.js
 - **Generative AI** | ComfyUI fundamentals 
 
 <br>
