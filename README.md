@@ -32,7 +32,7 @@
 
 - <a href="https://www.useget.com/">**Get**</a>｜**Prev. Event Ticketing for Students** | 2017, 2019-2020
 
-  Contributed to this <a href="https://www.techinasia.com/talk/how-app-dominated-hong-kong-universities-1-month">**success**</a> as an intern before Series A, then returned to lead growth in Hong Kong, acquiring the first key communities, including event organizers and attendees.
+  Contributed to this <a href="https://www.techinasia.com/talk/how-app-dominated-hong-kong-universities-1-month">**success**</a> as an intern before Series A, then returned to lead growth in Hong Kong, acquiring the first key communities.
   
 - <a href="https://www.chatdaddy.tech/">**ChatDaddy**</a>  | **AI Chatbot Builder for WhatsApp** | 2020-2021
 
@@ -96,12 +96,12 @@ since 2023
 - <a href="https://www.citispire.com/">**Citispire**</a> | **Future Forward Architecutral Firm** | 2021-2023
 
   developed metaverse prototypes with architectural designs
-- <a href="https://www.youtube.com/@simbanmetaverse">**Simaban Metaverse**</a> | **Blocokchain-powered Travel Metaverse** | 2023
+- <a href="https://www.youtube.com/@simbanmetaverse">**Simban Metaverse**</a> | **Blocokchain-powered Travel Metaverse** | 2023
 
   built game logic on top of the prototype and created product demos
 - <a href="https://tec.hku.hk/startups-directory/">**MetaVisions**</a> | **VR & AI Powered Wellness Start-up** | 2023
 
-  developed a VR manifestation experience prototype
+  developed a VR manifestation experience demo
 
   <br>
 
