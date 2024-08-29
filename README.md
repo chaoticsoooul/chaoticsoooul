@@ -1,5 +1,5 @@
 # Natalie Leung 🪄
-<a href="https://link3.to/natlaie">**Click to Learn More**</a>
+<a href="https://link3.to/natalie">**Click to Learn More**</a>
 <br>
 <br>
 
