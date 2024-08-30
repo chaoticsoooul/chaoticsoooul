@@ -5,7 +5,7 @@
 
 
 ## Learning 💻
-````Click links below to see my live progress````
+````Click links below to see the record````
 
 <br>
 
@@ -15,9 +15,7 @@
 
 - <a href="https://www.codecademy.com/profiles/natal6ie">**Codecademy**</a> | HTML, CSS, JavaScript & React
 
-- <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | Responsive Web Design
-
-  🟢 currently learning **JavaScript Algorithms and Data Structures**
+- <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | Responsive Web Design & JavaScript Algorithms and Data Structures
 
 - **ThreeJS Journey** | 39/66 lessons
 
