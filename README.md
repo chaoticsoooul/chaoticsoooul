@@ -8,21 +8,21 @@
 
 
 ## Learning 💻
-````Click links below to see the record````
+````Click links below to see the live record````
 
 <br>
 
-- <a href="https://forums.unrealengine.com/u/natalielpy/badges">**Unreal Online Learning**</a> | 36+ courses completed
+- <a href="https://forums.unrealengine.com/u/natalielpy/badges">**Unreal Online Learning**</a> | completed 36+ courses
 
-- **Alchemy University** | Solidity & Javascrirpt
+- **Alchemy University** | completed Solidity & Javascrirpt
 
-- <a href="https://www.codecademy.com/profiles/natal6ie">**Codecademy**</a> | HTML, CSS, JavaScript & React
+- <a href="https://www.codecademy.com/profiles/natal6ie">**Codecademy**</a> | completed HTML, CSS, JavaScript & React
 
-- <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | Responsive Web Design & JavaScript Algorithms and Data Structures
+- <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | completed Responsive Web Design & JavaScript Algorithms and Data Structures
 
   ````🟢 Learning Front End Development Libraries````
 
-- **ThreeJS Journey** | 39/66 lessons
+- **ThreeJS Journey** | completed 39/66 lessons
 
 <br>
 
@@ -46,18 +46,23 @@
 <br>
 
 ### Web3 ⛓️
-<a href="https://link3.to/natalie">**Footprint Check**</a>
+<a href="https://link3.to/natalie">**Residencies, Bounty Prizes & POAPs**</a>
 
 <br>
 
-**Hackathon Projects**
-- <a href="https://ethglobal.com/showcase/sportyachievers-jpmkd">**SportyAchievers**</a> | On-chain Funding Platform for Atheletes | 2023
+**Hacking**
+- <a href="https://ethglobal.com/showcase/sportyachievers-jpmkd">**EthGlobal Paris**</a> | On-chain Funding Platform for Atheletes | 2023
 
-- <a href="https://ethglobal.com/showcase/cpa-e46mm">**CPA Protocol**</a> | On-chain Affiliate Protocol for Web3 Projects | 2023
+- <a href="https://ethglobal.com/showcase/cpa-e46mm">**Superhack**</a> | On-chain Affiliate Protocol for Web3 Projects | 2023
 
-- <a href="https://ethglobal.com/showcase/chirpy-bn4f4">**Skitties | Chirpy**</a> | AI Telegram companian for decentrailized socials (Farcaster & Lens Protocol) | 2023
+- <a href="https://ethglobal.com/showcase/chirpy-bn4f4">**EthGlobal Istanbul**</a> | AI Telegram companian for decentrailized socials (Lens) | 2023
  
-- <a href="https://ethglobal.com/showcase/adgi-y9xr3">**ADGI</a> for <a href="https://libertai.io)">LibertAI**</a> | AI Telegram assistant for DAOs
+- <a href="https://github.com/akirawuc/lfghooo">**LFGHO**</a> | Multi-chain NFT shopping platform with GHO, offering lottery prizes from arbitrage | 2024
+
+  ````Deployed ConnectKit in the front-end````
+
+- <a href="https://ethglobal.com/showcase/adgi-y9xr3">**EthGlobal Sydney</a> for <a href="https://libertai.io)">LibertAI**</a> | AI Telegram assistant for DAOs | 2024
+
 
 <br>
 
