@@ -1,6 +1,9 @@
 # Natalie Leung 🪄
-<a href="https://link3.to/natalie">**Click to Learn More**</a>
 <br>
+
+
+🟢 Working on my **creative portfolio** and **front-end development** skills
+
 <br>
 
 
@@ -16,6 +19,8 @@
 - <a href="https://www.codecademy.com/profiles/natal6ie">**Codecademy**</a> | HTML, CSS, JavaScript & React
 
 - <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | Responsive Web Design & JavaScript Algorithms and Data Structures
+
+  ````🟢 Learning Front End Development Libraries````
 
 - **ThreeJS Journey** | 39/66 lessons
 
@@ -41,25 +46,19 @@
 <br>
 
 ### Web3 ⛓️
-since 2023
-<br>
-<br>
-
-**Events & Communities**
-- <a href="https://x.com/ethereumhk">**Eth Hong Kong**</a> | Contributor
-  
-- <a href="https://linktr.ee/nounsrc">**Nouns Running Club**</a> | Founding Member
+<a href="https://link3.to/natalie">**Footprint Check**</a>
 
 <br>
 
 **Hackathon Projects**
-- <a href="https://ethglobal.com/showcase/sportyachievers-jpmkd">**SportyAchievers**</a> | On-chain Funding Platform for Atheletes 
+- <a href="https://ethglobal.com/showcase/sportyachievers-jpmkd">**SportyAchievers**</a> | On-chain Funding Platform for Atheletes | 2023
 
-- <a href="https://ethglobal.com/showcase/cpa-e46mm">**CPA Protocol**</a> | On-chain Affiliate Protocol for Web3 Projects
+- <a href="https://ethglobal.com/showcase/cpa-e46mm">**CPA Protocol**</a> | On-chain Affiliate Protocol for Web3 Projects | 2023
 
-- <a href="https://ethglobal.com/showcase/chirpy-bn4f4">**Skitties | Chirpy**</a> | AI Telegram companian for decentrailized socials (Farcaster & Lens Protocol)
-
+- <a href="https://ethglobal.com/showcase/chirpy-bn4f4">**Skitties | Chirpy**</a> | AI Telegram companian for decentrailized socials (Farcaster & Lens Protocol) | 2023
+ 
 - <a href="https://ethglobal.com/showcase/adgi-y9xr3">**ADGI</a> for <a href="https://libertai.io)">LibertAI**</a> | AI Telegram assistant for DAOs
+
 <br>
 
 
@@ -68,10 +67,10 @@ since 2023
 
 <br>
 
-- **Vector Graphics** | Illustrator or Figma  
-- **Product Design and Management** | Figma, Posthog, PM tools
-- **Video & Animation** | Premiere Pro, Rive or Unreal Engine
-- **Web Development** | React, Webflow, Framer
+- 🟢 **Vector Graphics** | Illustrator or Figma  
+- 🟢 **Product Design and Management** | Figma, Posthog, GTM, etc.
+- 🟢 **Video & Animation** | Premiere Pro, Rive or Unreal Engine
+- 🟢 **Web Development** | React, Webflow, Framer
 
 - **Interactive 3D** | Blender, Unreal Engine, Playcanvas, Three.js
 - **Generative AI** | ComfyUI fundamentals 
