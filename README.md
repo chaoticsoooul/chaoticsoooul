@@ -2,11 +2,6 @@
 <br>
 
 
-🟢 Working on my **creative portfolio** and **front-end development** skills
-
-<br>
-
-
 ## Learning 💻
 ````Click links below to see the live record````
 
@@ -47,22 +42,6 @@
 
 ### Web3 ⛓️
 <a href="https://link3.to/natalie">**Residencies, Bounty Prizes & POAPs**</a>
-
-<br>
-
-**Hacking**
-- <a href="https://ethglobal.com/showcase/sportyachievers-jpmkd">**EthGlobal Paris**</a> | On-chain Funding Platform for Atheletes | 2023
-
-- <a href="https://ethglobal.com/showcase/cpa-e46mm">**Superhack**</a> | On-chain Affiliate Protocol for Web3 Projects | 2023
-
-- <a href="https://ethglobal.com/showcase/chirpy-bn4f4">**EthGlobal Istanbul**</a> | AI Telegram companian for decentrailized socials (Lens) | 2023
- 
-- <a href="https://github.com/akirawuc/lfghooo">**LFGHO**</a> | Multi-chain NFT shopping platform with GHO, offering lottery prizes from arbitrage | 2024
-
-  ````Deployed ConnectKit in the front-end````
-
-- <a href="https://ethglobal.com/showcase/adgi-y9xr3">**EthGlobal Sydney</a> for <a href="https://libertai.io)">LibertAI**</a> | AI Telegram assistant for DAOs | 2024
-
 
 <br>
 
