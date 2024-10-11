@@ -18,7 +18,7 @@
   ````🟢 Learning Front End Development Libraries````
 
 - **ThreeJS Journey** | completed 39/66 lessons
-- <a href="https://speedrunethereum.com/builders/0x32e9507cb51D884b71BF6E99fc878CEf30Ef72e7">**Speed Run Ethereum**</a> | at challenge #1 
+- <a href="https://speedrunethereum.com/builders/0x32e9507cb51D884b71BF6E99fc878CEf30Ef72e7">**Speed Run Ethereum**</a> | completed 4/8 challenges
 
 <br>
 
