@@ -15,8 +15,6 @@
 
 - <a href="https://www.freecodecamp.org/fcc43f4ad7c-ca46-4a6e-a883-f165bef3f0b8">**FreeCodeCamp**</a> | completed Responsive Web Design & JavaScript Algorithms and Data Structures
 
-  ````🟢 Learning Front End Development Libraries````
-
 - **ThreeJS Journey** | completed 39/66 lessons
 - <a href="https://speedrunethereum.com/builders/0x32e9507cb51D884b71BF6E99fc878CEf30Ef72e7">**Speed Run Ethereum**</a> | completed 4/8 challenges
 
@@ -42,10 +40,16 @@
 <br>
 
 ### Web3 ⛓️
-<a href="https://link3.to/natalie">**Residencies, Bounty Prizes & POAPs**</a>
-
 <br>
 
+- **Superhack 2023** | Best Overall Award from Mode Network
+- **Taiwan Builder House 2023** | Finalist
+- **Eth Hong Kong Hackathon 2023** | Finalist
+- **Hack Zuzalu** | EdgeAI Bounty
+- **ZuSocial** | Resident & Winner of the Decentralized Social for Users & Market Track
+- **Sozu Haus Austrailia 2024** | Resident
+
+<br>
 
 ## Full-stack Creative 🖋️
 ````Delivered quality work for organizations in tech and various other industries for 8+ years. ````
