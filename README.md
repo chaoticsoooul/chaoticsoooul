@@ -48,6 +48,7 @@
 - **Hack Zuzalu** | EdgeAI Bounty
 - **ZuSocial** | Resident & Winner of the Decentralized Social for Users & Market Track
 - **Sozu Haus Austrailia 2024** | Resident
+- **Deshittification Residency at Edge City Lanna** | Resident with Builder Scholarship
 
 <br>
 
@@ -79,7 +80,7 @@
 <br>
   
 **Work Experience**
-- <a href="https://www.citispire.com/">**Citispire**</a> | **Future Forward Architecutral Firm** | 2021-2023
+- <a href="https://www.citispire.com/">**Citispire**</a> | **Forward-thinking Architecutral Firm** | 2021-2023
 
   developed metaverse prototypes with architectural designs
 - <a href="https://www.youtube.com/@simbanmetaverse">**Simban Metaverse**</a> | **Blocokchain-powered Travel Metaverse** | 2023
